@@ -6,20 +6,20 @@ I've had a wider breadth of experiences than I expected to have at this point in
 
 ### Education
 
-| University                                                                                                                                                                | Degree                                    | Highlights              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ----------------------- |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" width="50" height="50"/> Web Bootcamp                                              | Full Stack Web Developement Certification |                         |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/KF.png" alt="drawing" width="50" height="50"/> Kenan Flagler Business School                | Masters of Accounting                     |                         |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" alt="drawing" width="50" height="50"/> University of North Carolina at Chapel Hill | BS in Physics                             | SKYNET Research Scholar |
+|                                                                                                                               | University                                  | Degree                                    | Highlights              |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------- | ----------------------- |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" width="80" height="50"/>               | Web Bootcamp                                | Full Stack Web Developement Certification |                         |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/KF.png" alt="drawing" width="80" height="50"/>  | Kenan Flagler Business School               | Masters of Accounting                     |                         |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" alt="drawing" width="80" height="50"/> | University of North Carolina at Chapel Hill | BS in Physics                             | SKYNET Research Scholar |
 
 ---
 
 ### Experience
 
-| Company                                                                                                                                               | Position         | Office            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------- |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Kymera.jpg" alt="drawing" width="50" height="50"/> Kymera International | Staff Accountant | Raleigh, NC       |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/EY.png" alt="drawing" width="50" height="50"/> EY                       | Audit Associate  | San Francisco, CA |
+|                                                                                                                                  | Company              | Position         | Office          |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | --------------- |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Kymera.jpg" alt="drawing" width="80" height="50"/> | Kymera International | Staff Accountant | Raleigh, NC     |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/EY.png" alt="drawing" width="80" height="50"/>     |                      | EY               | Audit Associate | San Francisco, CA |
 
 ---
 
