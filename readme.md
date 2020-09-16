@@ -35,7 +35,6 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Hubspot-informational?style=flat&logo=hubspot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Office_365-informational?style=flat&logo=microsoft-office&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Microsoft_Teams-informational?style=flat&logo=microsoft-teams&logoColor=white&color=2bbc8a)
