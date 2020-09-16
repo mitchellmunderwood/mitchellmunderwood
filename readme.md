@@ -2,9 +2,18 @@
 
 ---
 
-| University | Degree | Highlights |
-| ---------- | ------ | ---------- |
+| University                                  | Degree                                    | Highlights              |
+| ------------------------------------------- | ----------------------------------------- | ----------------------- |
+| Trilogy Bootcamp (UNC-CH)                   | Full Stack Web Developement Certification |                         |
+| Kenan Flagler Business School (UNC-CH)      | Masters of Accounting                     |                         |
+| University of North Carolina at Chapel Hill | BS in Physics                             | SKYNET Research Scholar |
 
+---
+
+| Company | Position | Office |
+| -------------------- | ---------------- | |
+| Kymera International | Staff Accountant | Raleigh, NC |
+| EY | Audit Associate | San Francisco, CA |
 
 ---
 
