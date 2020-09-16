@@ -16,10 +16,10 @@ I've had a wider breadth of experiences than I expected to have at this point in
 
 ### Experience
 
-|                                                                                                                                                   | Company              | Position         | Office            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | ----------------- |
-| <img src="/Users/mitchellunderwood/Documents/Bootcamp/Deployment/mitchellmunderwood/Kymera.jpg" alt="drawing" style="width:100px; height:100px"/> | Kymera International | Staff Accountant | Raleigh, NC       |
-| <img src="/Users/mitchellunderwood/Documents/Bootcamp/Deployment/mitchellmunderwood/EY.png" alt="drawing" style="width:100px; height:100px;"/>    | EY                   | Audit Associate  | San Francisco, CA |
+|                                                                         | Company              | Position         | Office            |
+| ----------------------------------------------------------------------- | -------------------- | ---------------- | ----------------- |
+| <img src="Kymera.jpg" alt="drawing" style="width:100px; height:100px"/> | Kymera International | Staff Accountant | Raleigh, NC       |
+| <img src="EY.png" alt="drawing" style="width:100px; height:100px;"/>    | EY                   | Audit Associate  | San Francisco, CA |
 
 ---
 
