@@ -10,10 +10,10 @@
 
 ---
 
-| Company | Position | Office |
-| -------------------- | ---------------- | |
-| Kymera International | Staff Accountant | Raleigh, NC |
-| EY | Audit Associate | San Francisco, CA |
+| Company              | Position         | Office            |
+| -------------------- | ---------------- | ----------------- |
+| Kymera International | Staff Accountant | Raleigh, NC       |
+| EY                   | Audit Associate  | San Francisco, CA |
 
 ---
 
