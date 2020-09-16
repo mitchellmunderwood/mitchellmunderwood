@@ -38,7 +38,6 @@
 ![](https://img.shields.io/badge/Tools-Hubspot-informational?style=flat&logo=hubspot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Office_365-informational?style=flat&logo=microsoft-office&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Microsoft_SharePoint-informational?style=flat&logo=microsoft-sharepoint&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Microsoft_Teams-informational?style=flat&logo=microsoft-teams&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
