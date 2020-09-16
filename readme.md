@@ -21,7 +21,7 @@ I've had a wider breadth of experiences than I expected to have at this point in
 |                                                                                                                                  | Company              | Position         | Office          |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | --------------- |
 | <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Kymera.jpg" alt="drawing" width="80" height="50"/> | Kymera International | Staff Accountant | Raleigh, NC     |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/EY.png" alt="drawing" width="80" height="50"/>     |                      | EY               | Audit Associate | San Francisco, CA |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/EY.png" alt="drawing" width="80" height="50"/>     |                       EY               | Audit Associate | San Francisco, CA |
 
 ---
 
