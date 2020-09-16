@@ -51,17 +51,20 @@ I've had a wider breadth of experiences than I expected to have at this point in
 ### Development
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=ios&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NPM-informational?style=flat&logo=NPM&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=json&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TravisCI-informational?style=flat&logo=travisci&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Nodemon-informational?style=flat&logo=nodemon&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Tools-Office_365-informational?style=flat&logo=microsoft-office&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Microsoft_Teams-informational?style=flat&logo=microsoft-teams&logoColor=white&color=2bbc8a)
