@@ -6,20 +6,20 @@ I've had a wider breadth of experiences than I expected to have at this point in
 
 ### Education
 
-|                                                                          | University                                  | Degree                                    | Highlights              |
-| ------------------------------------------------------------------------ | ------------------------------------------- | ----------------------------------------- | ----------------------- |
-| <img src="Trilogy.png" alt="drawing" style="width:100px; height:100px"/> | Trilogy Bootcamp (UNC-CH)                   | Full Stack Web Developement Certification |                         |
-| <img src="KF.png" alt="drawing" style="width:100px; height:100px"/>      | Kenan Flagler Business School (UNC-CH)      | Masters of Accounting                     |                         |
-| <img src="UNC.jpg" alt="drawing" style="width:100px; height:100px"/>     | University of North Carolina at Chapel Hill | BS in Physics                             | SKYNET Research Scholar |
+|                                                                                                                                  | University                                  | Degree                                    | Highlights              |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------- | ----------------------- |
+| <img src="github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Trilogy.png" alt="drawing" style="width:100; height:100"/> | Trilogy Bootcamp (UNC-CH)                   | Full Stack Web Developement Certification |                         |
+| <img src="github.com/mitchellmunderwood/mitchellmunderwood/raw/master/KF.png" alt="drawing" style="width:100; height:100"/>      | Kenan Flagler Business School (UNC-CH)      | Masters of Accounting                     |                         |
+| <img src="github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" alt="drawing" style="width:100; height:100"/>     | University of North Carolina at Chapel Hill | BS in Physics                             | SKYNET Research Scholar |
 
 ---
 
 ### Experience
 
-|                                                                         | Company              | Position         | Office            |
-| ----------------------------------------------------------------------- | -------------------- | ---------------- | ----------------- |
-| <img src="Kymera.jpg" alt="drawing" style="width:100px; height:100px"/> | Kymera International | Staff Accountant | Raleigh, NC       |
-| <img src="EY.png" alt="drawing" style="width:100px; height:100px;"/>    | EY                   | Audit Associate  | San Francisco, CA |
+|                                                                                                                                 | Company              | Position         | Office            |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | ----------------- |
+| <img src="github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Kymera.jpg" alt="drawing" style="width:100; height:100"/> | Kymera International | Staff Accountant | Raleigh, NC       |
+| <img src="github.com/mitchellmunderwood/mitchellmunderwood/raw/master/EY.png" alt="drawing" style="width:100; height:100;"/>    | EY                   | Audit Associate  | San Francisco, CA |
 
 ---
 
