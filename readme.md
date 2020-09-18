@@ -2,7 +2,7 @@
 
 I've had a wider breadth of experiences than I expected to have at this point in my life. I studied physics, got an accounting degree, did public accounting, then did private accounting, and now I'm getting certified in web development. Admittedly, it's taken longer to land in an industry I enjoy than I expected it too. That being said, I've found my home in web development and software engineering. My love of data, engineering, abstraction, design, and user experience all exist symbiotically in this space together.
 
-##### <a href="https://mitchellmunderwood.github.io/Responsive_Portfolio/">Check out my portfolio</a> to see some of the recent projects I've been developing.
+##### <a href="https://mitchellmunderwood.github.io/Responsive-Portfolio/">Check out my portfolio</a> to see some of the recent projects I've been developing.
 
 ---
 
