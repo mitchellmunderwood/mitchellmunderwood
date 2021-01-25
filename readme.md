@@ -1,6 +1,6 @@
 # Hi, I'm Mitchell!
 
-I've had a wider breadth of experiences than I expected to have at this point in my life. I studied physics, got an accounting degree, did public accounting, then did private accounting, and now I'm getting certified in web development. Admittedly, it's taken longer to land in an industry I enjoy than I expected it too. That being said, I've found my home in web development and software engineering. My love of data, engineering, abstraction, design, and user experience all exist symbiotically in this space together.
+Software Developer currently working with a great team at ResolveX to bring software to bear on solving problems of mental health. I am passionate about making functionally and visually high quality products, that invoke a sense of love in the user. I love working with passionate and purposeful people, and find the most reward from tackling complex, meaningful problems.
 
 ##### <a href="http://whoismitchell.com/">Check out my portfolio</a> to see some of the recent projects I've been developing.
 
