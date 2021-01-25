@@ -18,11 +18,11 @@ Software Developer currently working with a great team at ResolveX to bring soft
 
 ### Education
 
-|                                                                                                                               | University                                  | Degree                                    | Highlights              |
+|                                                                                                                               | University                                  | Degree                                    | Period             |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------- | ----------------------- |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" width="80" height="50"/>               | Web Bootcamp                                | Full Stack Web Developement Certification |                         |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/KF.png" alt="drawing" width="80" height="50"/>  | Kenan Flagler Business School               | Masters of Accounting                     |                         |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" alt="drawing" width="80" height="50"/> | University of North Carolina at Chapel Hill | BS in Physics                             | SKYNET Research Scholar |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" width="80" height="50"/>               | Web Bootcamp                                | Full Stack Web Developement Certification |  5/2020 - 10/2020                       |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/KF.png" alt="drawing" width="80" height="50"/>  | Kenan Flagler Business School               | Masters of Accounting                     |   5/2016 - 5/2017                      |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" alt="drawing" width="80" height="50"/> | University of North Carolina at Chapel Hill | BS in Physics                             | 5/2012 - 5/2016 |
 
 ---
 
