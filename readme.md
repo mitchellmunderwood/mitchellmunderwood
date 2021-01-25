@@ -6,6 +6,16 @@ Software Developer currently working with a great team at ResolveX to bring soft
 
 ---
 
+### Experience
+
+|                                                                                                                                  | Company              | Position         | Office          | Period        |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | --------------- | ------------------ |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/ResolveX.jpg" alt="drawing" width="80" height="50"/> | ResolveX | Full Stack Devs Intern | Raleigh, NC     | 12/2020 - Present  |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Kymera.jpg" alt="drawing" width="80" height="50"/> | Kymera International | Staff Accountant | Raleigh, NC     | 3/2018 - 2/2019 |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/EY.png" alt="drawing" width="80" height="50"/>     |                       EY               | Audit Associate | San Francisco, CA | 7/2016 - 4/2017 |
+
+---
+
 ### Education
 
 |                                                                                                                               | University                                  | Degree                                    | Highlights              |
@@ -13,16 +23,6 @@ Software Developer currently working with a great team at ResolveX to bring soft
 | <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" width="80" height="50"/>               | Web Bootcamp                                | Full Stack Web Developement Certification |                         |
 | <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/KF.png" alt="drawing" width="80" height="50"/>  | Kenan Flagler Business School               | Masters of Accounting                     |                         |
 | <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/UNC.jpg" alt="drawing" width="80" height="50"/> | University of North Carolina at Chapel Hill | BS in Physics                             | SKYNET Research Scholar |
-
----
-
-### Experience
-
-|                                                                                                                                  | Company              | Position         | Office          |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | --------------- |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/ResolveX.jpg" alt="drawing" width="80" height="50"/> | ResolveX | Full Stack Devs Intern | Raleigh, NC     |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Kymera.jpg" alt="drawing" width="80" height="50"/> | Kymera International | Staff Accountant | Raleigh, NC     |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/EY.png" alt="drawing" width="80" height="50"/>     |                       EY               | Audit Associate | San Francisco, CA |
 
 ---
 
