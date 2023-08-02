@@ -1,8 +1,8 @@
 # Hi, I'm Mitchell!
 
-Software Developer currently working with a great team at ResolveX to bring software to bear on solving problems of mental health. I am passionate about making functionally and visually high quality products, that invoke a sense of love in the user. I love working with passionate and purposeful people, and find the most reward from tackling complex, meaningful problems.
+I'm a Highly skilled and results-driven Software Engineer with a strong background in full stack development and a track record of delivering robust and scalable solutions. Over the past two years at Shopify, demonstrated expertise in developing and maintaining mission-critical Node.js microservices, contributing to the automation of a robotic warehousing fulfillment system. Proficient in Kubernetes and GCP, and adept at utilizing behavior trees to optimize fulfillment workflows. Recognized for leadership in revitalizing high-profile software for weighted item picking, accommodating diverse product types. Collaborative and proactive, excelling in stakeholder engagement to refine product requirements and oversee development cycles. Possessing a Bachelor's degree in Physics and a Master's degree in Accounting, complementing technical skills in JavaScript, TypeScript, React, Redux, NodeJS, MongoDB, SQL, Docker, Kubernetes, and more.
 
-##### <a href="http://whoismitchell.com/">Check out my portfolio</a> to see some of the recent projects I've been developing.
+##### <a href="https://mitchellmunderwood.github.io/Portfolio/">Check out my portfolio</a> to see some of the recent projects I've been developing.
 
 ---
 
@@ -10,9 +10,9 @@ Software Developer currently working with a great team at ResolveX to bring soft
 
 |                                                                                                                                  | Company              | Position         | Office          | Period        |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | --------------- | ------------------ |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Shopify.png" alt="drawing" width="80" height="50"/> | Shopify | Software Engineer | Raleigh, NC, Remote    | 12/2020 - Present  |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/ResolveX.jpg" alt="drawing" width="80" height="50"/> | ResolveX | Full Stack Developer | Raleigh, NC     | 12/2020 - Present  |
-| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/ResolveX.jpg" alt="drawing" width="80" height="50"/> | ResolveX | Full Stack Devs Intern | Raleigh, NC     | 12/2020 - Present  |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Shopify.png" alt="drawing" width="80" height="50"/> | Shopify | Software Engineer | Raleigh, NC, Remote    | 10/2021 - 05/2023  |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/ResolveX.jpg" alt="drawing" width="80" height="50"/> | ResolveX | Full Stack Developer | Raleigh, NC     | 05/2021 - 09/2021  |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/ResolveX.jpg" alt="drawing" width="80" height="50"/> | ResolveX | Full Stack Devs Intern | Raleigh, NC     | 12/2020 - 05/2021  |
 | <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Kymera.jpg" alt="drawing" width="80" height="50"/> | Kymera International | Staff Accountant | Raleigh, NC     | 3/2018 - 2/2019 |
 | <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/EY.png" alt="drawing" width="80" height="50"/>     |                       EY               | Audit Associate | San Francisco, CA | 7/2016 - 4/2017 |
 
