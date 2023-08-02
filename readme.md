@@ -10,6 +10,8 @@ Software Developer currently working with a great team at ResolveX to bring soft
 
 |                                                                                                                                  | Company              | Position         | Office          | Period        |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | --------------- | ------------------ |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Shopify.png" alt="drawing" width="80" height="50"/> | Shopify | Software Engineer | Raleigh, NC, Remote    | 12/2020 - Present  |
+| <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/ResolveX.jpg" alt="drawing" width="80" height="50"/> | ResolveX | Full Stack Developer | Raleigh, NC     | 12/2020 - Present  |
 | <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/ResolveX.jpg" alt="drawing" width="80" height="50"/> | ResolveX | Full Stack Devs Intern | Raleigh, NC     | 12/2020 - Present  |
 | <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/Kymera.jpg" alt="drawing" width="80" height="50"/> | Kymera International | Staff Accountant | Raleigh, NC     | 3/2018 - 2/2019 |
 | <img src="https://github.com/mitchellmunderwood/mitchellmunderwood/raw/master/EY.png" alt="drawing" width="80" height="50"/>     |                       EY               | Audit Associate | San Francisco, CA | 7/2016 - 4/2017 |
